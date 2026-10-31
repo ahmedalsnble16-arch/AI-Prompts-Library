@@ -1,0 +1,6 @@
+{
+  "name": "AI Prompts Library - مكتبة برومتات الذكاء الاصطناعي",
+  "description": "مكتبة محتوى ذكية بدون إنترنت لعرض ونسخ برومتات توليد الصور بالذكاء الاصطناعي مع لوحة تحكم إدارية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
